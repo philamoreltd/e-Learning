@@ -5,6 +5,10 @@
     box-sizing: border-box;
     
 }
+body{
+    max-width: 100%;
+    min-width: 100%;
+}
 
 
 /* variables */
@@ -55,12 +59,7 @@ img{
     background-color: blue;
 } */
 
-body{
-    font: var(--FF)
-    min-width: 100%;
-    max-width: 100%;
-    background-color:var(--RADIAL-)
-    }
+
  /*  display: flex; */  
 
 header, 
